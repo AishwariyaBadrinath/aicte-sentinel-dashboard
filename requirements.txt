@@ -1,0 +1,6 @@
+Flask>=3.0,<4.0
+Werkzeug>=3.0
+scikit-learn>=1.4
+sentence-transformers>=3.0
+psycopg[binary]>=3.2
+gunicorn>=22.0
