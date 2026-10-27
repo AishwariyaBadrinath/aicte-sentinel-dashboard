@@ -24,6 +24,12 @@ A student-project prototype for centralized complaint monitoring, cross-bureau c
 - Username: `demo`
 - Password: `Demo@12345`
 
+# AICTE Sentinel Dashboard
+
+*Live Website:* [Open AICTE Sentinel Dashboard](https://aicte-sentinel-dashboard.onrender.com)
+
+*GitHub Repository:* [View Source Code](https://github.com/AishwariyaBadrinath/aicte-sentinel-dashboard)
+
 Change the password before any deployment by setting the `DEMO_PASSWORD` environment variable **before the first database initialization**. For a public deployment, disable or replace the demo account and implement organization-approved identity management.
 
 ## Run locally (Windows)
